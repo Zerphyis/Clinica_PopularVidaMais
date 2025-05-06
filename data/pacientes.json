@@ -1,0 +1,26 @@
+[
+    {
+      "nome": "Carlos Mendes",
+      "cpf": "11122233344",
+      "data_nascimento": "1990-05-14",
+      "telefone": "(11) 91234-5678"
+    },
+    {
+      "nome": "Fernanda Lima",
+      "cpf": "22233344455",
+      "data_nascimento": "1985-08-22",
+      "telefone": "(21) 99876-5432"
+    },
+    {
+      "nome": "Ricardo Almeida",
+      "cpf": "33344455566",
+      "data_nascimento": "1978-12-01",
+      "telefone": "(31) 98765-4321"
+    },
+    {
+      "nome": "Juliana Castro",
+      "cpf": "44455566677",
+      "data_nascimento": "2000-03-10",
+      "telefone": "(41) 97654-3210"
+    }
+  ]
